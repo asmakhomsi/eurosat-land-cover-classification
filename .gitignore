@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded dataset and generated archives
+EuroSAT_RGB/
+EuroSAT_RGB.zip
+figures.zip
